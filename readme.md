@@ -11,7 +11,7 @@ powerful framework for building agent-based applications using graph structures.
 - [Code Examples](#code-examples)
   - [Sequential Nodes](#sequential_nodespy)
   - [Conditional Nodes](#conditional_nodespy)
-  - [Basic Chat](#basic_chatpy)
+  - [Basic Chatbot](#basic_chatbotpy)
   - [Subgraph Nodes](#subgraph_nodespy)
 
 
@@ -40,7 +40,7 @@ Illustrates building a graph with nodes that execute based on conditions. This e
 - Decision-making flows
 - Dynamic execution paths
 - 
-### basic_chat.py
+### basic_chatbot.py
 Implements a simple chatbot application demonstrating LangGraph's conversational capabilities. This example includes:
 - Basic chat function with message handling
 - Chat with tool integration (for executing actions)
